@@ -1,0 +1,61 @@
+site_id,treatment,time,weight_g
+rebar_01,ziploc,pre,30.83
+rebar_01,mixed,pre,30.9
+rebar_01,grocery_bag,pre,29.98
+rebar_01,trash_ bag,pre,30.3
+rebar_01,leaf_litter,pre,29.61
+rebar_01,compostable,pre,30.48
+rebar_02,ziploc,pre,28.82
+rebar_02,mixed,pre,32.41
+rebar_02,grocery_bag,pre,29.4
+rebar_02,trash_ bag,pre,29.87
+rebar_02,leaf_litter,pre,29.91
+rebar_02,compostable,pre,30.19
+rebar_03,ziploc,pre,30.1
+rebar_03,mixed,pre,30.29
+rebar_03,grocery_bag,pre,29.67
+rebar_03,trash_ bag,pre,29.39
+rebar_03,leaf_litter,pre,28.86
+rebar_03,compostable,pre,28.96
+rebar_04,ziploc,pre,29.63
+rebar_04,mixed,pre,30.97
+rebar_04,grocery_bag,pre,29.43
+rebar_04,trash_ bag,pre,30.11
+rebar_04,leaf_litter,pre,28.77
+rebar_04,compostable,pre,28.27
+rebar_05,ziploc,pre,30.08
+rebar_05,mixed,pre,29.98
+rebar_05,grocery_bag,pre,30.41
+rebar_05,trash_ bag,pre,30.25
+rebar_05,leaf_litter,pre,29.17
+rebar_05,compostable,pre,28
+rebar_01,ziploc,pst,32.09
+rebar_01,mixed,pst,36.87
+rebar_01,grocery_bag,pst,42.85
+rebar_01,trash_ bag,pst,32.13
+rebar_01,leaf_litter,pst,31.98
+rebar_01,compostable,pst,34.59
+rebar_02,ziploc,pst,30.13
+rebar_02,mixed,pst,38.84
+rebar_02,grocery_bag,pst,50.09
+rebar_02,trash_ bag,pst,33.21
+rebar_02,leaf_litter,pst,31.72
+rebar_02,compostable,pst,32.18
+rebar_03,ziploc,pst,30.73
+rebar_03,mixed,pst,30.23
+rebar_03,grocery_bag,pst,33.72
+rebar_03,trash_ bag,pst,31.03
+rebar_03,leaf_litter,pst,30.46
+rebar_03,compostable,pst,29.66
+rebar_04,ziploc,pst,31.48
+rebar_04,mixed,pst,33.7
+rebar_04,grocery_bag,pst,41.48
+rebar_04,trash_ bag,pst,31.05
+rebar_04,leaf_litter,pst,25.96
+rebar_04,compostable,pst,28.95
+rebar_05,ziploc,pst,31.12
+rebar_05,mixed,pst,30.99
+rebar_05,grocery_bag,pst,60.98
+rebar_05,trash_ bag,pst,32.24
+rebar_05,leaf_litter,pst,18.41
+rebar_05,compostable,pst,31.66

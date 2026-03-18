@@ -1,0 +1,31 @@
+site_id,treatment,weight_diff
+rebar_01,ziploc,1.26
+rebar_01,mixed,5.97
+rebar_01,grocery_bag,12.87
+rebar_01,trash_ bag,1.83
+rebar_01,leaf_litter,2.37
+rebar_01,compostable,4.11
+rebar_02,ziploc,1.31
+rebar_02,mixed,6.43
+rebar_02,grocery_bag,20.69
+rebar_02,trash_ bag,3.34
+rebar_02,leaf_litter,1.81
+rebar_02,compostable,1.99
+rebar_03,ziploc,0.63
+rebar_03,mixed,-0.06
+rebar_03,grocery_bag,4.05
+rebar_03,trash_ bag,1.64
+rebar_03,leaf_litter,1.6
+rebar_03,compostable,0.7
+rebar_04,ziploc,1.85
+rebar_04,mixed,2.73
+rebar_04,grocery_bag,12.05
+rebar_04,trash_ bag,0.94
+rebar_04,leaf_litter,-2.81
+rebar_04,compostable,0.68
+rebar_05,ziploc,1.04
+rebar_05,mixed,1.01
+rebar_05,grocery_bag,30.57
+rebar_05,trash_ bag,1.99
+rebar_05,leaf_litter,-10.76
+rebar_05,compostable,3.66

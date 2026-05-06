@@ -1,0 +1,43 @@
+substrate,feed,count
+ziploc,1,188
+mixed,1,256
+grocery_bag,1,96
+trash_ bag,1,345
+leaf_litter,1,204
+compostable,1,105
+ziploc,2,3
+mixed,2,13
+grocery_bag,2,2
+trash_ bag,2,7
+leaf_litter,2,22
+compostable,2,6
+ziploc,3,279
+mixed,3,531
+grocery_bag,3,233
+trash_ bag,3,421
+leaf_litter,3,367
+compostable,3,200
+ziploc,4,85
+mixed,4,92
+grocery_bag,4,76
+trash_ bag,4,47
+leaf_litter,4,120
+compostable,4,66
+ziploc,5,0
+mixed,5,0
+grocery_bag,5,0
+trash_ bag,5,0
+leaf_litter,5,0
+compostable,5,0
+ziploc,6,54
+mixed,6,42
+grocery_bag,6,36
+trash_ bag,6,120
+leaf_litter,6,54
+compostable,6,61
+ziploc,7,10
+mixed,7,14
+grocery_bag,7,16
+trash_ bag,7,9
+leaf_litter,7,24
+compostable,7,7
